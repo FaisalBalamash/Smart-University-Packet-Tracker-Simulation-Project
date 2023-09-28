@@ -10,6 +10,7 @@ This project simulates a Smart University environment with two floors, each cont
 - [Simulation Setup](#simulation-setup)
 - [Network Components](#network-components)
 - [Usage](#usage)
+- [Screenshot](#screenshot)
 - [Contributing](#contributing)
 
 ## Simulation Setup
@@ -82,7 +83,7 @@ Wireless access points are deployed throughout the university to provide seamles
     
 ## Screenshot
 
-![alt text](https://github.com/FaisalBalamash/Smart-University-Network-implemented-in-Packet-tracer/blob/main/image.png?raw=true)
+![alt text](https://github.com/FaisalBalamash/Smart-University-Packet-Tracker-Simulation-Project/blob/main/image.png?raw=true)
 
 ## Contributing
 
